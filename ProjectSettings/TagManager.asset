@@ -63,14 +63,17 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: player
-    uniqueID: 3655670179
-    locked: 0
   - name: safeIn
     uniqueID: 1822155285
     locked: 0
   - name: safeOut
     uniqueID: 1862697051
+    locked: 0
+  - name: player
+    uniqueID: 3655670179
+    locked: 0
+  - name: canvas1
+    uniqueID: 468518465
     locked: 0
   m_RenderingLayers:
   - Default
